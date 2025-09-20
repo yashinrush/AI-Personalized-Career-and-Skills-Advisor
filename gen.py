@@ -6,7 +6,7 @@ import time
 # --- Configuration ---
 # WARNING: Do not hardcode API keys in production. Use environment variables or Streamlit secrets.
 # The user-provided key is used here for hackathon purposes.
-API_KEY = "AIzaSyAERC3aSiS3jyWH4uBCBGpITnu9XOUH7z0" # This is the user provided API key
+API_KEY = "API-KEY" # This is the user provided API key
 
 try:
     genai.configure(api_key=API_KEY)
