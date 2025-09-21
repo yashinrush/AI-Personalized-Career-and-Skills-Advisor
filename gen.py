@@ -620,8 +620,8 @@ def main():
                 st.rerun()
 
         st.markdown("---")
-        st.info("Built for the Gen AI Hackathon with ❤️ by a developer and their AI assistant.")
-        st.markdown("[![GitHub](https://img.shields.io/badge/GitHub-View_Code-blue?style=for-the-badge&logo=github)](https://github.com/)", unsafe_allow_html=True)
+        st.info("Built for the Gen AI Hackathon with ❤️ by a Team TECHNOKAMI.")
+        st.markdown("[![GitHub](https://img.shields.io/badge/GitHub-View_Code-blue?style=for-the-badge&logo=github)](https://github.com/yashinrush/AI-Personalized-Career-and-Skills-Advisor)", unsafe_allow_html=True)
 
 
     # Page routing
