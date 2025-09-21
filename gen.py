@@ -17,7 +17,7 @@ except Exception as e:
 
 # --- Page Configuration ---
 st.set_page_config(
-    page_title="AI Career & Skills Advisor",
+    page_title="Adept AI",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded",
